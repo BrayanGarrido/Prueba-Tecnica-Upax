@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titles">18sp</dimen>
+    <dimen name="widthFilm">130dp</dimen>
+    <dimen name="heightFilm">200dp</dimen>
+    <dimen name="margin_short">8dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_big">24dp</dimen>
+    <dimen name="rating_size">20dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="imgNoPhoto">300dp</dimen>
+    <dimen name="description">16sp</dimen>
+    <dimen name="fabPaddingHorizontal">16dp</dimen>
+    <dimen name="fabPaddingVertical">5dp</dimen>
+    <dimen name="fabRadius">2dp</dimen>
+    <dimen name="recyclerHeightImages">150dp</dimen>
+    <dimen name="recyclerWidthImages">300dp</dimen>
+    <dimen name="imageWidthGallery">100dp</dimen>
+</resources>

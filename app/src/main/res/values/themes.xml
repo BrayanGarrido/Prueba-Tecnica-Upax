@@ -1,0 +1,38 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.PruebaTecnicaUpax" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorSecondaryVariant">@color/accent</item>
+        <item name="colorOnSecondary">@color/colorOnSecondary</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="SplashTheme" parent="Theme.PruebaTecnicaUpax">
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+    </style>
+
+    <!--Layer Option of floating action button-->
+    <style name="tagFab">
+        <item name="android:background">@drawable/fondo_option_fab</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <!--Menu of floating action button-->
+    <style name="ThemeFloatingActionButton">
+        <item name="fab_addButtonColorNormal">@color/primary</item>
+        <item name="fab_addButtonColorPressed">@color/primary_light</item>
+        <item name="fab_labelStyle">@style/tagFab</item>
+    </style>
+
+    <style name="FabOption">
+        <item name="fab_colorNormal">@color/primary_dark</item>
+        <item name="fab_size">normal</item>
+        <item name="fab_colorPressed">@color/primary_light</item>
+    </style>
+</resources>

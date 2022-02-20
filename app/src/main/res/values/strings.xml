@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Prueba Tecnica Upax</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="peliculas">Peliculas</string>
+    <string name="location">Ubicación</string>
+    <string name="photo">Imagen</string>
+    <string name="filmsPopular">Peliculas Populares</string>
+    <string name="descriptionDialogLocation">Para poder llevar el registro de su ubicacion, necesitamos de su permiso</string>
+    <string name="descriptionDialogCamera">Para poder tomar una fotografía, necesitamos de su permiso</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="aceptarPermisos">Permiso Obligatorio</string>
+    <string name="manuallySettingsLocation">Debido a que no ha aceptado el permiso de ubicacion, debe de activarlo manualmente</string>
+    <string name="manuallySettingsCamera">Debido a que no ha aceptado el permiso para acceder a la cámara, debe de activarlo manualmente</string>
+    <string name="aceptarManual">Aceptar Manualmente</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="fecha">Fecha:</string>
+    <string name="Hora">Hora:</string>
+    <string name="Latitude">Latitud:</string>
+    <string name="Longitude">Longitud:</string>
+    <string name="addPicture">Añadir Imágenes</string>
+    <string name="noPhotos">Aún no tienes imágenes en la nube, comparte tus mejores momentos y revívelos cuando quieras!</string>
+    <string name="gallery">Galería</string>
+    <string name="camera">Cámara</string>
+    <string name="SelectFromGallery">Imágenes de la Galería</string>
+    <string name="SelectFromCamera">Imágenes capturadas</string>
+    <string name="addPictures">Subir Imágenes</string>
+    <string name="addImage">Agregar Imagen</string>
+    <string name="noImagesGallery">Seleccione las imagenes de su galería para continuar.</string>
+    <string name="noImagesCamera">Capture una imagen con su cámara para continuar</string>
+    <string name="searchImages">Buscar imagenes</string>
+    <string name="searchCamera">Tomar Foto</string>
+    <string name="update">Actualizar</string>
+</resources>

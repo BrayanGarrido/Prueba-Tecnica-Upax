@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ProgramasDeAndroid/Upax/app/src/main/res/drawable-night/splash_screen.xml" value="0.318" />
+        <entry key="..\:/ProgramasDeAndroid/Upax/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2" />
+        <entry key="..\:/ProgramasDeAndroid/Upax/app/src/main/res/drawable/fondo_option_fab.xml" value="0.318" />
+        <entry key="..\:/ProgramasDeAndroid/Upax/app/src/main/res/drawable/ic_add_image.xml" value="0.318" />
+        <entry key="..\:/ProgramasDeAndroid/Upax/app/src/main/res/drawable/ic_close.xml" value="0.318" />
+        <entry key="..\:/ProgramasDeAndroid/Upax/app/src/main/res/drawable/splash_screen.xml" value="0.296" />
+        <entry key="..\:/ProgramasDeAndroid/Upax/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/ProgramasDeAndroid/Upax/app/src/main/res/layout/dialog_fragment_camera.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProgramasDeAndroid/Upax/app/src/main/res/layout/dialog_fragment_info_location.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProgramasDeAndroid/Upax/app/src/main/res/layout/dialog_fragment_location.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProgramasDeAndroid/Upax/app/src/main/res/layout/dialog_fragment_location_settings.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProgramasDeAndroid/Upax/app/src/main/res/layout/dialog_fragmet_camera_settings.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProgramasDeAndroid/Upax/app/src/main/res/layout/fragment_location.xml" value="0.33" />
+        <entry key="..\:/ProgramasDeAndroid/Upax/app/src/main/res/layout/fragment_peliculas.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProgramasDeAndroid/Upax/app/src/main/res/layout/fragment_photo.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProgramasDeAndroid/Upax/app/src/main/res/layout/gallery_dialog_fragment.xml" value="0.4282238442822384" />
+        <entry key="..\:/ProgramasDeAndroid/Upax/app/src/main/res/layout/gallery_fragment_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProgramasDeAndroid/Upax/app/src/main/res/layout/photo_fragment_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProgramasDeAndroid/Upax/app/src/main/res/layout/template_header_image_add.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProgramasDeAndroid/Upax/app/src/main/res/layout/template_images_item.xml" value="0.33" />
+        <entry key="..\:/ProgramasDeAndroid/Upax/app/src/main/res/layout/template_list_film.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProgramasDeAndroid/Upax/app/src/main/res/layout/template_photos_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProgramasDeAndroid/Upax/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "908476183642",
+    "project_id": "pruebatecnicaupax",
+    "storage_bucket": "pruebatecnicaupax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908476183642:android:971d8056b89a02d3b05463",
+        "android_client_info": {
+          "package_name": "com.bornidea.pruebatecnicaupax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908476183642-kl3afo2aq9v50nmh2b5u7j95g03q2v5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bornidea.pruebatecnicaupax",
+            "certificate_hash": "8369749613ca168a39bc4da8166f7405d753babc"
+          }
+        },
+        {
+          "client_id": "908476183642-nor4vkd762im22ml1c5kciv15vn68cgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChpWhre2kztxSiaghRfRw2xftGy8v3dXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908476183642-nor4vkd762im22ml1c5kciv15vn68cgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

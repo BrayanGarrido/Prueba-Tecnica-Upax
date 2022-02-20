@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/navigationPeliculas">
+
+    <fragment
+        android:id="@+id/navigationPeliculas"
+        android:name="com.bornidea.pruebatecnicaupax.ui.fragments.PeliculasFragment"
+        android:label="fragment_peliculas"
+        tools:layout="@layout/fragment_peliculas" />
+
+    <fragment
+        android:id="@+id/navigationLocation"
+        android:name="com.bornidea.pruebatecnicaupax.ui.fragments.LocationFragment"
+        android:label="fragment_location"
+        tools:layout="@layout/fragment_location" />
+
+    <fragment
+        android:id="@+id/navigationPhoto"
+        android:name="com.bornidea.pruebatecnicaupax.ui.fragments.PhotoFragment"
+        android:label="fragment_photo"
+        tools:layout="@layout/fragment_photo" />
+</navigation>
