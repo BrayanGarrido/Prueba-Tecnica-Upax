@@ -29,7 +29,7 @@
         </activity>
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="${MAPS_API_KEY}" />
+            android:value="AIzaSyChpWhre2kztxSiaghRfRw2xftGy8v3dXY" />
         <service android:name=".model.services.TimerService" />
     </application>
 
